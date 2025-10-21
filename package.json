@@ -1,0 +1,7 @@
+{
+  "name": "network-mapper-",
+  "version": "0.1.0",
+  "description": "Demo package for Network-Mapper",
+  "main": "assets/app.js",
+  "license": "MIT"
+}
